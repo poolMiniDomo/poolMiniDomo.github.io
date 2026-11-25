@@ -1,0 +1,5 @@
+:root { color-scheme: light dark; --accent: #f2a516; }
+body { font-family: -apple-system, system-ui, Roboto, sans-serif; max-width: 720px; margin: 0 auto; padding: 32px 16px; line-height: 1.6; }
+h1 { color: var(--accent); }
+a { color: inherit; }
+footer { margin-top: 48px; font-size: .9em; opacity: .7; }
